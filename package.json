@@ -1,6 +1,6 @@
 {
   "name": "reputation-dot-com-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js client for the Reputation Dot Com API",
   "main": "./lib/reputation-dot-com",
   "author": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wmgreene/mindbody.git"
+    "url": "git://github.com/wmgreene/reputation-dot-com-sdk.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
